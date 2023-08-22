@@ -1,0 +1,8 @@
+C:\Users\Publico\source\repos\EX4POO\EX4POO\obj\Debug\EX4POO.csproj.AssemblyReference.cache
+C:\Users\Publico\source\repos\EX4POO\EX4POO\obj\Debug\EX4POO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Publico\source\repos\EX4POO\EX4POO\obj\Debug\EX4POO.csproj.CoreCompileInputs.cache
+C:\Users\Publico\source\repos\EX4POO\EX4POO\bin\Debug\EX4POO.exe.config
+C:\Users\Publico\source\repos\EX4POO\EX4POO\bin\Debug\EX4POO.exe
+C:\Users\Publico\source\repos\EX4POO\EX4POO\bin\Debug\EX4POO.pdb
+C:\Users\Publico\source\repos\EX4POO\EX4POO\obj\Debug\EX4POO.exe
+C:\Users\Publico\source\repos\EX4POO\EX4POO\obj\Debug\EX4POO.pdb
